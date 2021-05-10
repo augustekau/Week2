@@ -1,0 +1,22 @@
+td {
+  padding: 10px;
+  border: 1px solid black;
+}
+table {
+  text-align: center;
+  border-spacing: 0px;
+}
+
+thead {
+  background: yellow;
+  font-weight: bold;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid black;
+}
+.yellow-bold {
+  background: yellow;
+  font-weight: bold;
+}
