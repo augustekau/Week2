@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  background: cornflowerblue;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 30px 100px;
+}
+.padding {
+  font-size: large;
+  background: violet;
+  border: 5px solid palevioletred;
+  padding: 50px 70px 100px 150px;
+}
+.margin {
+  font-size: larger;
+  background: peru;
+  margin: 100px 200px;
+}
+.first {
+  padding: 50px 150px;
+  background: yellow;
+}
+.second {
+  padding: 50px 150px;
+  background: blue;
+}
+.inLine {
+  display: inline;
+}
