@@ -1,0 +1,39 @@
+.main {
+  text-align: center;
+  background: coral;
+}
+img {
+  width: 80px;
+}
+.container {
+  background: cornsilk;
+  width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.heading {
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.box {
+  padding: 10px 10px;
+  border: 1px solid coral;
+  margin-bottom: 15px;
+  float: left;
+}
+
+.box3 {
+  width: 300px;
+  margin-left: 8px;
+}
+.box2 {
+  width: 450px;
+  margin-left: 8px;
+}
+.box1 {
+  width: 700px;
+  margin-left: 8px;
+}
