@@ -1,7 +1,9 @@
-.main {
+body {
+  margin: 0;
   text-align: center;
+  padding-top: 200px;
   background-image: url(https://htmlcolorcodes.com/assets/images/colors/blood-red-color-solid-background-1920x1080.png);
-  padding: 200px;
+  background-size: cover;
 }
 h1 {
   color: white;
@@ -12,6 +14,7 @@ h1 {
 p {
   color: white;
   margin-top: 0;
+  margin-bottom: 30px;
 }
 a {
   color: white;
@@ -21,7 +24,7 @@ img {
   width: 18px;
 }
 .container {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 .button {
@@ -31,7 +34,6 @@ img {
   margin-left: 5px;
   margin-right: 5px;
   max-width: 100px;
-  float: left;
 }
 .clearfix::after {
   content: "";
@@ -39,17 +41,13 @@ img {
   display: table;
 }
 .button-wrapper {
-  max-width: 238px;
-  margin: 0 auto;
+  text-align: center;
 }
 .box-wrapper {
-  max-width: 192px;
-  margin: 0 auto;
+  text-align: center;
 }
-
 .box {
-  float: left;
-  margin-left: 15px;
-  margin-right: 15px;
   margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
