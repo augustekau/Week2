@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-top: 0;
+}
+
+p {
+  font-size: 16px;
+  padding-right: 50px;
+}
+img {
+  max-width: 550px;
+}
+input {
+  width: 520px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background: #f3f3f3;
+  margin: 10px;
+}
+textarea {
+  width: 520px;
+  height: 150px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background: #f3f3f3;
+  margin: 10px;
+}
+.send {
+  width: 150px;
+  background: black;
+  color: white;
+  border-radius: 4px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.box-wrapper {
+  max-width: 50%;
+  float: left;
+  margin-left: 10px;
+}
+.form-wrapper {
+  max-width: 50%;
+  float: left;
+}
